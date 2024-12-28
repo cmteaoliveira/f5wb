@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://www.f5webestudio.com.br/sitemap.xml
